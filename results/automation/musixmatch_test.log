@@ -1,0 +1,114 @@
+Running '1. Registration'
+01:44:50
+1.open on / OK
+01:44:51
+2.assertText on linkText=Sign in with value Sign in OK
+01:44:55
+3.assertElementPresent on linkText=Sign in OK
+01:45:00
+4.click on linkText=Sign in OK
+01:45:03
+5.assertText on linkText=Sign up with value Sign up OK
+01:45:07
+6.assertElementPresent on linkText=Sign up OK
+01:45:12
+7.click on linkText=Sign up OK
+01:45:16
+8.type on css=.mui-input--md:nth-child(1) with value Name OK
+01:45:20
+9.type on css=.mui-input:nth-child(2) with value LastName OK
+01:45:23
+10.type on css=.mui-input:nth-child(3) with value User@Name.com OK
+01:45:27
+11.type on css=.mui-input:nth-child(4) with value password123 OK
+01:45:30
+12.click on id=disclaimer OK
+01:45:33
+13.assertText on css=.mui-button--lg with value Sign up OK
+01:45:36
+14.assertElementPresent on css=.mui-button--lg OK
+01:45:39
+15.click on css=.mui-button--lg OK
+01:45:42
+'1. Registration' completed successfully
+01:45:42
+Running '2. Login page'
+01:45:42
+1.open on / OK
+01:45:43
+2.assertText on linkText=Sign in with value Sign in OK
+01:45:46
+3.click on linkText=Sign in OK
+01:45:50
+4.click on css=.mui-input--md:nth-child(1) OK
+01:45:54
+5.type on css=.mui-input--md:nth-child(1) with value gerardo.partida@enroutesystems.com OK
+01:45:58
+6.click on css=.mui-input:nth-child(2) OK
+01:46:02
+7.type on css=.mui-input:nth-child(2) with value EnroutePassword OK
+01:46:07
+8.click on css=.mui-button--orange OK
+01:46:11
+9.click on css=.mxm-user-avatar OK
+01:46:16
+10.assertElementPresent on linkText=Profile OK
+01:46:20
+11.click on linkText=Profile OK
+01:46:23
+12.click on css=.mui-button--ghost OK
+01:46:27
+'2. Login page' completed successfully
+01:46:28
+Running '3. Favorite'
+01:46:28
+1.open on / OK
+01:46:29
+2.click on linkText=Community OK
+01:46:32
+3.click on id=search-input OK
+01:46:36
+4.type on id=search-input with value thought contagion OK
+01:46:41
+5.click on id=search-button OK
+01:46:45
+6.click on css=.box:nth-child(1) .media-card-title:nth-child(1) span:nth-child(1) OK
+01:46:50
+8.click on css=.mui-icon--heart2 OK
+01:47:00
+9.click on css=span > .mxm-user-avatar OK
+01:47:04
+10.click on linkText=Profile OK
+01:47:07
+11.assertText on css=.mui-nav__tab:nth-child(3) with value FAVORITES OK
+01:47:12
+12.click on css=.mui-nav__tab:nth-child(3) OK
+01:47:16
+13.waitForElementPresent on css=.mui-cell__media with value 30000 OK
+01:47:21
+14.assertElementPresent on css=.mui-cell__media with value 30000 OK
+01:47:25
+'3. Favorite' completed successfully
+01:47:26
+Running '4. Delete account'
+01:47:26
+1.open on / OK
+01:47:27
+2.click on css=.mui-button--ghost OK
+01:47:30
+3.click on linkText=Profile OK
+01:47:34
+4.click on css=.mxm-user__edit-profile-link-content OK
+01:47:40
+5.selectFrame on index=3 OK
+01:47:44
+6.assertText on css=.r-1loqt21:nth-child(3) > .css-1dbjc4n > .css-901oao with value Delete My Account OK
+01:47:48
+7.click on css=.r-1loqt21:nth-child(3) > .css-1dbjc4n > .css-901oao OK
+01:47:53
+8.assertText on css=.css-1dbjc4n:nth-child(2) > .r-1awozwy with value Delete OK
+01:47:56
+9.assertElementPresent on css=.css-1dbjc4n:nth-child(2) > .r-1awozwy OK
+01:47:59
+'4. Delete account' completed successfully
+01:47:59

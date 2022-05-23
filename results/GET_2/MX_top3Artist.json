@@ -1,0 +1,55 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.0035350322723389
+        },
+        "body": {
+            "artist": {
+                "artist_id": 1039,
+                "artist_name": "Coldplay",
+                "artist_name_translation_list": [
+                    {
+                        "artist_name_translation": {
+                            "language": "JA",
+                            "translation": "コールドプレイ"
+                        }
+                    }
+                ],
+                "artist_comment": "",
+                "artist_country": "GB",
+                "artist_alias_list": [
+                    {
+                        "artist_alias": "コールドプレイ"
+                    },
+                    {
+                        "artist_alias": "ku wan yue dui"
+                    },
+                    {
+                        "artist_alias": "The Coldplay"
+                    },
+                    {
+                        "artist_alias": "Cold Play"
+                    },
+                    {
+                        "artist_alias": "Coldplay"
+                    },
+                    {
+                        "artist_alias": "Luser"
+                    }
+                ],
+                "artist_rating": 93,
+                "artist_twitter_url": "https://twitter.com/coldplay",
+                "artist_credits": {
+                    "artist_list": []
+                },
+                "restricted": 0,
+                "updated_time": "2013-11-05T11:24:57Z",
+                "begin_date_year": "1996",
+                "begin_date": "1996-09-00",
+                "end_date_year": "",
+                "end_date": "0000-00-00"
+            }
+        }
+    }
+}

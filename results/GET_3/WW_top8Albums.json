@@ -1,0 +1,393 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.064296960830688,
+            "available": 14
+        },
+        "body": {
+            "album_list": [
+                {
+                    "album": {
+                        "album_id": 51464076,
+                        "album_mbid": "",
+                        "album_name": "MIDDLE OF THE NIGHT",
+                        "album_rating": 27,
+                        "album_release_date": "2022-05-20",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2022 Loveless",
+                        "album_copyright": "2022 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-05-20T06:33:18Z",
+                        "external_ids": {
+                            "spotify": [
+                                "0BIVeIl2HY2fElVxUCD9RV"
+                            ],
+                            "itunes": [
+                                "1622415035"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 51115689,
+                        "album_mbid": "",
+                        "album_name": "If You Have My Voodoo Doll, Give Me a Hug - Single",
+                        "album_rating": 22,
+                        "album_release_date": "2022-05-13",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 Loveless",
+                        "album_copyright": "℗ 2022 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-05-20T18:03:33Z",
+                        "external_ids": {
+                            "spotify": [
+                                "2LrqwyeMfmptOAaqCM6JLs"
+                            ],
+                            "itunes": [
+                                "1620022778"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 49557109,
+                        "album_mbid": "",
+                        "album_name": "Killing Time - Single",
+                        "album_rating": 35,
+                        "album_release_date": "2022-02-25",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 Loveless",
+                        "album_copyright": "℗ 2022 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-05-19T20:56:17Z",
+                        "external_ids": {
+                            "spotify": [
+                                "3ejG2M4qiovk22WUuhkRAU"
+                            ],
+                            "itunes": [
+                                "1606945927"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 49104778,
+                        "album_mbid": "",
+                        "album_name": "happier than ever - Single",
+                        "album_rating": 49,
+                        "album_release_date": "2022-01-21",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 Loveless",
+                        "album_copyright": "℗ 2022 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-05-19T09:20:39Z",
+                        "external_ids": {
+                            "spotify": [
+                                "7gPppzNyiIgGoNpcLXaL4w"
+                            ],
+                            "itunes": [
+                                "1603495825"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 47944779,
+                        "album_mbid": "",
+                        "album_name": "meet me at our spot",
+                        "album_rating": 39,
+                        "album_release_date": "2021-11-12",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2021 Loveless",
+                        "album_copyright": "2021 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-04-01T18:04:14Z",
+                        "external_ids": {
+                            "spotify": [
+                                "7M3V7QLqdK6ZhkzKKnfiNP"
+                            ],
+                            "itunes": [
+                                "1593895651"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 46817426,
+                        "album_mbid": "",
+                        "album_name": "sorry i'm a downer",
+                        "album_rating": 32,
+                        "album_release_date": "2021-09-17",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2021 Loveless",
+                        "album_copyright": "2021 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-04-01T18:04:19Z",
+                        "external_ids": {
+                            "spotify": [
+                                "3pWZUapSZN36eiXNEdnM9z"
+                            ],
+                            "itunes": [
+                                "1582523004"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 43716920,
+                        "album_mbid": "",
+                        "album_name": "Loveless I",
+                        "album_rating": 60,
+                        "album_release_date": "2021-06-04",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2021 Loveless",
+                        "album_copyright": "2021 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-04-01T18:04:06Z",
+                        "external_ids": {
+                            "spotify": [
+                                "6c2fpKffYuEEAplWHmsts9"
+                            ],
+                            "itunes": [
+                                "1563830782"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 43628362,
+                        "album_mbid": "",
+                        "album_name": "A Thousand Reasons",
+                        "album_rating": 8,
+                        "album_release_date": "2021-04-16",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2021 Loveless",
+                        "album_copyright": "2021 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-04-01T18:04:23Z",
+                        "external_ids": {
+                            "spotify": [
+                                "30qwaWtD7OfKjGyeomPqTy"
+                            ],
+                            "itunes": [
+                                "1561282978"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 41430545,
+                        "album_mbid": "",
+                        "album_name": "Smile",
+                        "album_rating": 24,
+                        "album_release_date": "2021-01-29",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2021 Loveless",
+                        "album_copyright": "2021 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-04-01T18:04:27Z",
+                        "external_ids": {
+                            "spotify": [
+                                "1ZNd9U0FwFkc9ZdhXM8abv"
+                            ],
+                            "itunes": [
+                                "1548519442"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 40248699,
+                        "album_mbid": "",
+                        "album_name": "Haunting Me",
+                        "album_rating": 11,
+                        "album_release_date": "2020-10-09",
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "2020 Loveless",
+                        "album_copyright": "2020 Loveless",
+                        "album_label": "Loveless",
+                        "restricted": 0,
+                        "updated_time": "2022-04-01T18:04:32Z",
+                        "external_ids": {
+                            "spotify": [
+                                "02YD5PcSPjEpQH59p0Lqbj"
+                            ],
+                            "itunes": [
+                                "1532324159"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

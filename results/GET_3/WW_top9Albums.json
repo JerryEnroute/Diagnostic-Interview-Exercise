@@ -1,0 +1,196 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.048377990722656,
+            "available": 5
+        },
+        "body": {
+            "album_list": [
+                {
+                    "album": {
+                        "album_id": 50980786,
+                        "album_mbid": "",
+                        "album_name": "Fall In Love (Acoustic) - Single",
+                        "album_rating": 12,
+                        "album_release_date": "2022-04-12",
+                        "artist_id": 47266636,
+                        "artist_name": "Bailey Zimmerman",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 Hurricane Bailey Entertainment",
+                        "album_copyright": "℗ 2022 Hurricane Bailey Entertainment",
+                        "album_label": "Hurricane Bailey Entertainment",
+                        "restricted": 0,
+                        "updated_time": "2022-04-18T23:32:28Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1614724154"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 49783566,
+                        "album_mbid": "",
+                        "album_name": "Fall In Love - Single",
+                        "album_rating": 0,
+                        "album_release_date": "2022-02-11",
+                        "artist_id": 47266636,
+                        "artist_name": "Bailey Zimmerman",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 Hurricane Bailey Entertainment",
+                        "album_copyright": "℗ 2022 Hurricane Bailey Entertainment",
+                        "album_label": "Hurricane Bailey Entertainment",
+                        "restricted": 0,
+                        "updated_time": "2022-02-18T02:59:27Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1607279333"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 44046489,
+                        "album_mbid": "",
+                        "album_name": "Small Town Crazy - Single",
+                        "album_rating": 14,
+                        "album_release_date": "2021-11-12",
+                        "artist_id": 47266636,
+                        "artist_name": "Bailey Zimmerman",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 Hurricane Bailey Entertainment",
+                        "album_copyright": "℗ 2021 Hurricane Bailey Entertainment",
+                        "album_label": "Bailey L Zimmerman Music Inc/The Fuel Music,Hurricane Bailey Entertainment",
+                        "restricted": 0,
+                        "updated_time": "2021-10-24T17:00:12Z",
+                        "external_ids": {
+                            "spotify": [
+                                "3oYxYLMXIWGyH9jDDv4U3O"
+                            ],
+                            "itunes": [
+                                "1562988788",
+                                "1588976614"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 47422200,
+                        "album_mbid": "",
+                        "album_name": "Change - Single",
+                        "album_rating": 0,
+                        "album_release_date": "2021-10-08",
+                        "artist_id": 47266636,
+                        "artist_name": "Bailey Zimmerman",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 Hurricane Bailey Entertainment",
+                        "album_copyright": "℗ 2021 Hurricane Bailey Entertainment",
+                        "album_label": "Hurricane Bailey Entertainment",
+                        "restricted": 0,
+                        "updated_time": "2021-10-22T12:45:49Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1588790207"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 41435523,
+                        "album_mbid": "",
+                        "album_name": "Never Comin' Home - Single",
+                        "album_rating": 0,
+                        "album_release_date": "2021-01-29",
+                        "artist_id": 47266636,
+                        "artist_name": "Bailey Zimmerman",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 Bailey Zimmerman",
+                        "album_copyright": "℗ 2021 Bailey Zimmerman",
+                        "album_label": "",
+                        "restricted": 0,
+                        "updated_time": "2021-01-30T17:08:53Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1551046783"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

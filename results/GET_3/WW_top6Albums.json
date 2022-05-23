@@ -1,0 +1,383 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.034340143203735,
+            "available": 93
+        },
+        "body": {
+            "album_list": [
+                {
+                    "album": {
+                        "album_id": 51053877,
+                        "album_mbid": "",
+                        "album_name": "Mercury - Acts 1 & 2",
+                        "album_rating": 100,
+                        "album_release_date": "2022-07-01",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "℗ 2022 KIDinaKORNER/Interscope Records",
+                        "album_label": "Kid Ina Korner / Interscope",
+                        "restricted": 0,
+                        "updated_time": "2022-04-20T06:15:28Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1617908569"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 50218542,
+                        "album_mbid": "",
+                        "album_name": "Bones - Single",
+                        "album_rating": 100,
+                        "album_release_date": "2022-03-11",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "℗ 2022 KIDinaKORNER/Interscope Records",
+                        "album_label": "KIDinaKORNER/Interscope Records",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:08:39Z",
+                        "external_ids": {
+                            "spotify": [
+                                "1Q9SnHWPNEjVM0LrBFvJ1q"
+                            ],
+                            "itunes": [
+                                "1612321587"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 47692121,
+                        "album_mbid": "",
+                        "album_name": "Enemy (From the series \"Arcane League of Legends\") - Single",
+                        "album_rating": 100,
+                        "album_release_date": "2021-10-28",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "℗ 2021 KIDinaKORNER/Interscope Records",
+                        "album_label": "KIDinaKORNER/Interscope Records",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:07:35Z",
+                        "external_ids": {
+                            "spotify": [
+                                "1bTgKomQYSkKYPD9UI9W4b"
+                            ],
+                            "itunes": [
+                                "1591640884"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 49485712,
+                        "album_mbid": "",
+                        "album_name": "Mercury - Act 1",
+                        "album_rating": 100,
+                        "album_release_date": "2021-09-03",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "© 2022 KIDinaKORNER/Interscope Records",
+                        "album_label": "Kid Ina Korner / Interscope,KIDinaKORNER/Interscope Records",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:08:45Z",
+                        "external_ids": {
+                            "spotify": [
+                                "4fZIyJn2wKb51QPNnWYnqt"
+                            ],
+                            "itunes": [
+                                "1607399614"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 45386941,
+                        "album_mbid": "",
+                        "album_name": "Wrecked",
+                        "album_rating": 71,
+                        "album_release_date": "2021-07-02",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        },
+                        "album_pline": "℗ 2021 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "© 2021 KIDinaKORNER/Interscope Records",
+                        "album_label": "KIDinaKORNER/Interscope Records",
+                        "restricted": 0,
+                        "updated_time": "2021-11-18T17:23:07Z",
+                        "external_ids": {
+                            "spotify": [
+                                "2qjb5OwlllLLOmrueU08kG"
+                            ],
+                            "itunes": [],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 44376597,
+                        "album_mbid": "",
+                        "album_name": "Follow You (Summer ’21 Version)",
+                        "album_rating": 47,
+                        "album_release_date": "2021-06-04",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "© 2021 KIDinaKORNER/Interscope Records",
+                        "album_label": "KIDinaKORNER/Interscope Records",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:10:01Z",
+                        "external_ids": {
+                            "spotify": [
+                                "5XbogAOTpIAb0cuULw9FcP"
+                            ],
+                            "itunes": [
+                                "1569758867"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 43105753,
+                        "album_mbid": "",
+                        "album_name": "Follow You / Cutthroat",
+                        "album_rating": 97,
+                        "album_release_date": "2021-03-12",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "© 2021 KIDinaKORNER/Interscope Records",
+                        "album_label": "KIDinaKORNER/Interscope Records",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:10:01Z",
+                        "external_ids": {
+                            "spotify": [
+                                "1nz0PWfAcTQVbFtpU6u1UY"
+                            ],
+                            "itunes": [
+                                "1557714984"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 33075435,
+                        "album_mbid": "",
+                        "album_name": "Birds",
+                        "album_rating": 75,
+                        "album_release_date": "2019-06-20",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        },
+                        "album_pline": "℗ 2019 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "© 2019 KIDinaKORNER/Interscope Records",
+                        "album_label": "Kid Ina Korner / Interscope",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:10:03Z",
+                        "external_ids": {
+                            "spotify": [
+                                "0OXJFBFvYP5b2U0qWUQehJ"
+                            ],
+                            "itunes": [],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 33079853,
+                        "album_mbid": "",
+                        "album_name": "Birds (feat. Elisa) - Single",
+                        "album_rating": 65,
+                        "album_release_date": "2019-06-20",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2019 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "℗ 2019 KIDinaKORNER/Interscope Records",
+                        "album_label": "Kid Ina Korner / Interscope",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:07:51Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1467964676"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 32698607,
+                        "album_mbid": "",
+                        "album_name": "Bad Liar – Stripped",
+                        "album_rating": 60,
+                        "album_release_date": "2019-05-31",
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2019 KIDinaKORNER/Interscope Records",
+                        "album_copyright": "© 2019 KIDinaKORNER/Interscope Records",
+                        "album_label": "Kid Ina Korner / Interscope",
+                        "restricted": 0,
+                        "updated_time": "2022-04-06T01:10:08Z",
+                        "external_ids": {
+                            "spotify": [
+                                "58401eNNELkIVx3xiwzJFy"
+                            ],
+                            "itunes": [
+                                "1465163170"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

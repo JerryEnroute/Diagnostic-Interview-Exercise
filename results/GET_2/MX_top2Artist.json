@@ -1,0 +1,43 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.010343790054321
+        },
+        "body": {
+            "artist": {
+                "artist_id": 33491954,
+                "artist_name": "Bad Bunny",
+                "artist_name_translation_list": [
+                    {
+                        "artist_name_translation": {
+                            "language": "JA",
+                            "translation": "バッド・バニー"
+                        }
+                    }
+                ],
+                "artist_comment": "",
+                "artist_country": "",
+                "artist_alias_list": [
+                    {
+                        "artist_alias": "バッド・バニー"
+                    },
+                    {
+                        "artist_alias": "Benito Antonio Martínez Ocasio"
+                    }
+                ],
+                "artist_rating": 90,
+                "artist_twitter_url": "",
+                "artist_credits": {
+                    "artist_list": []
+                },
+                "restricted": 0,
+                "updated_time": "2017-04-28T23:18:30Z",
+                "begin_date_year": "",
+                "begin_date": "0000-00-00",
+                "end_date_year": "",
+                "end_date": "0000-00-00"
+            }
+        }
+    }
+}

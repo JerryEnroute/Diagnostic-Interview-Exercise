@@ -1,0 +1,137 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.014426946640015
+        },
+        "body": {
+            "artist_list": [
+                {
+                    "artist": {
+                        "artist_id": 13895270,
+                        "artist_name": "Imagine Dragons",
+                        "artist_name_translation_list": [
+                            {
+                                "artist_name_translation": {
+                                    "language": "JA",
+                                    "translation": "イマジン・ドラゴンズ"
+                                }
+                            },
+                            {
+                                "artist_name_translation": {
+                                    "language": "KO",
+                                    "translation": "IMAGINE DRAGONS"
+                                }
+                            }
+                        ],
+                        "artist_comment": "",
+                        "artist_country": "US",
+                        "artist_alias_list": [
+                            {
+                                "artist_alias": "イマジン・ドラゴンズ"
+                            },
+                            {
+                                "artist_alias": "IMAGINE DRAGONS"
+                            }
+                        ],
+                        "artist_rating": 93,
+                        "artist_twitter_url": "https://twitter.com/Imaginedragons",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2013-11-05T11:30:28Z",
+                        "begin_date_year": "2008",
+                        "begin_date": "2008-00-00",
+                        "end_date_year": "",
+                        "end_date": "0000-00-00"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "artist_name_translation_list": [],
+                        "artist_comment": "",
+                        "artist_country": "",
+                        "artist_alias_list": [],
+                        "artist_rating": 81,
+                        "artist_twitter_url": "",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T00:57:20Z",
+                        "begin_date_year": "",
+                        "begin_date": "0000-00-00",
+                        "end_date_year": "",
+                        "end_date": "0000-00-00"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 44917410,
+                        "artist_name": "Loveless",
+                        "artist_name_translation_list": [],
+                        "artist_comment": "",
+                        "artist_country": "",
+                        "artist_alias_list": [],
+                        "artist_rating": 50,
+                        "artist_twitter_url": "thisisloveless",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2022-04-08T05:07:41Z",
+                        "begin_date_year": "2020",
+                        "begin_date": "2020-00-00",
+                        "end_date_year": "",
+                        "end_date": "0000-00-00"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 47266636,
+                        "artist_name": "Bailey Zimmerman",
+                        "artist_name_translation_list": [],
+                        "artist_comment": "",
+                        "artist_country": "",
+                        "artist_alias_list": [],
+                        "artist_rating": 13,
+                        "artist_twitter_url": "",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2021-01-30T17:08:53Z",
+                        "begin_date_year": "",
+                        "begin_date": "0000-00-00",
+                        "end_date_year": "",
+                        "end_date": "0000-00-00"
+                    }
+                },
+                {
+                    "artist": {
+                        "artist_id": 24812222,
+                        "artist_name": "Cody Johnson",
+                        "artist_name_translation_list": [],
+                        "artist_comment": "",
+                        "artist_country": "",
+                        "artist_alias_list": [],
+                        "artist_rating": 95,
+                        "artist_twitter_url": "",
+                        "artist_credits": {
+                            "artist_list": []
+                        },
+                        "restricted": 0,
+                        "updated_time": "2014-05-09T20:31:01Z",
+                        "begin_date_year": "",
+                        "begin_date": "0000-00-00",
+                        "end_date_year": "",
+                        "end_date": "0000-00-00"
+                    }
+                }
+            ]
+        }
+    }
+}

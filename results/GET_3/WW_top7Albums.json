@@ -1,0 +1,426 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.056872844696045,
+            "available": 15
+        },
+        "body": {
+            "album_list": [
+                {
+                    "album": {
+                        "album_id": 51508020,
+                        "album_mbid": "",
+                        "album_name": "Twelve Carat Toothache",
+                        "album_rating": 100,
+                        "album_release_date": "2022-06-03",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "℗ 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Mercury Records/Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2022-05-12T23:16:10Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1623192950"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 51506679,
+                        "album_mbid": "",
+                        "album_name": "Cooped Up",
+                        "album_rating": 44,
+                        "album_release_date": "2022-05-12",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        },
+                        "album_pline": "℗ 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2022 Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Mercury Records/Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2022-05-12T16:01:17Z",
+                        "external_ids": {
+                            "spotify": [
+                                "6sjdohc8ouX9jHxIyqi6mi"
+                            ],
+                            "itunes": [],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 45469987,
+                        "album_mbid": "",
+                        "album_name": "Motley Crew",
+                        "album_rating": 84,
+                        "album_release_date": "2021-07-09",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2021 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T01:02:15Z",
+                        "external_ids": {
+                            "spotify": [
+                                "4tokbQaFXRrq8keVGBD9vb"
+                            ],
+                            "itunes": [
+                                "1575618656"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 42146920,
+                        "album_mbid": "",
+                        "album_name": "Only Wanna Be With You (Pokémon 25 Version)",
+                        "album_rating": 64,
+                        "album_release_date": "2021-02-25",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2021 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2021 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T01:02:22Z",
+                        "external_ids": {
+                            "spotify": [
+                                "2xZhidR4y5OPpCRYF09XB4"
+                            ],
+                            "itunes": [
+                                "1554898158"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 34433043,
+                        "album_mbid": "",
+                        "album_name": "Hollywood's Bleeding",
+                        "album_rating": 100,
+                        "album_release_date": "2019-09-06",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 18,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Hip Hop/Rap",
+                                        "music_genre_name_extended": "Hip-Hop/Rap",
+                                        "music_genre_vanity": "Hip-Hop-Rap"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2019 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2019 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2022-01-03T14:24:42Z",
+                        "external_ids": {
+                            "spotify": [
+                                "3xiq77UtnlDXfcRz5IJu20"
+                            ],
+                            "itunes": [
+                                "1477886950"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 37559137,
+                        "album_mbid": "",
+                        "album_name": "Circles (Instrumental)",
+                        "album_rating": 31,
+                        "album_release_date": "2019-09-04",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2020 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2020 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T01:02:36Z",
+                        "external_ids": {
+                            "spotify": [
+                                "0AnHDJVP2eBnPPLtguO6gq"
+                            ],
+                            "itunes": [
+                                "1506959932"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 33603352,
+                        "album_mbid": "",
+                        "album_name": "Goodbyes (feat. Young Thug) - Single",
+                        "album_rating": 84,
+                        "album_release_date": "2019-07-05",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 18,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Hip Hop/Rap",
+                                        "music_genre_name_extended": "Hip-Hop/Rap",
+                                        "music_genre_vanity": "Hip-Hop-Rap"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2019 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "℗ 2019 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T00:59:30Z",
+                        "external_ids": {
+                            "spotify": [],
+                            "itunes": [
+                                "1473297378"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 31709751,
+                        "album_mbid": "",
+                        "album_name": "Wow. (Instrumental)",
+                        "album_rating": 28,
+                        "album_release_date": "2019-03-14",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 18,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Hip Hop/Rap",
+                                        "music_genre_name_extended": "Hip-Hop/Rap",
+                                        "music_genre_vanity": "Hip-Hop-Rap"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2019 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2018 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T01:02:41Z",
+                        "external_ids": {
+                            "spotify": [
+                                "5oL7DNAeNb3CzJ4AujYFlO"
+                            ],
+                            "itunes": [
+                                "1456293563"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 30953639,
+                        "album_mbid": "",
+                        "album_name": "Wow. - Single",
+                        "album_rating": 100,
+                        "album_release_date": "2018-12-24",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 34,
+                                        "music_genre_parent_id": 0,
+                                        "music_genre_name": "Music",
+                                        "music_genre_name_extended": "Music",
+                                        "music_genre_vanity": "Music"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 18,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Hip Hop/Rap",
+                                        "music_genre_name_extended": "Hip-Hop/Rap",
+                                        "music_genre_vanity": "Hip-Hop-Rap"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2018 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "℗ 2018 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T01:01:05Z",
+                        "external_ids": {
+                            "spotify": [
+                                "5Dcz8PZHKuvTyjbqEPL5VM",
+                                "5RyUSKWzBY0aTZd9WX9MXQ"
+                            ],
+                            "itunes": [
+                                "1447203905",
+                                "1447201612"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                },
+                {
+                    "album": {
+                        "album_id": 28689059,
+                        "album_mbid": "",
+                        "album_name": "beerbongs & bentleys",
+                        "album_rating": 100,
+                        "album_release_date": "2018-04-27",
+                        "artist_id": 51049836,
+                        "artist_name": "Post Malone",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 1068,
+                                        "music_genre_parent_id": 18,
+                                        "music_genre_name": "Alternative Rap",
+                                        "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                                        "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 18,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Hip Hop/Rap",
+                                        "music_genre_name_extended": "Hip-Hop/Rap",
+                                        "music_genre_vanity": "Hip-Hop-Rap"
+                                    }
+                                }
+                            ]
+                        },
+                        "album_pline": "℗ 2018 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_copyright": "© 2018 Republic Records, a division of UMG Recordings, Inc.",
+                        "album_label": "Universal Records,,Republic Records",
+                        "restricted": 0,
+                        "updated_time": "2021-09-28T01:01:36Z",
+                        "external_ids": {
+                            "spotify": [
+                                "6A6weHMYzpMdFyLwCBCOiS",
+                                "6trNtQUgC8cgbWcqoMYkOR"
+                            ],
+                            "itunes": [
+                                "1373516902",
+                                "1373504837"
+                            ],
+                            "amazon_music": []
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
